@@ -1,0 +1,28 @@
+.container-fluid {
+  background-color: #FFFFFF;
+}
+
+.column {
+  padding: 3em;
+}
+
+#header {
+  background-color: #F8D3C7;
+}
+
+#about {
+  background-color: #DAF0F4;
+}
+
+#funding {
+  background-color: #CFE7C9;
+}
+
+#touch {
+  background-color: #FDECE6;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+  color: #9B7349
+}
